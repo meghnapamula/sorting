@@ -2,7 +2,7 @@
 [![](https://github.com/meghnapamula/sorting/workflows/tests/badge.svg)](https://github.com/meghnapamula/sorting/actions?query=workflow%3Atests)
 [![](https://github.com/meghnapamula/sorting/workflows/extra_credit/badge.svg)](https://github.com/meghnapamula/sorting/actions?query=workflow%3Atests)
 
-You will implement the merge and quick sort algorithms!
+You will implement the merge and quick sort algorithms!!
 
 **Learning Objectives:**
 
