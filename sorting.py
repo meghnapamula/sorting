@@ -1,6 +1,5 @@
 #!/bin/python3
 
-#test
 
 def cmp_standard(a, b):
     if a < b:
